@@ -1,4 +1,4 @@
-# C++
+﻿# C++
 *.d
 *.slo
 *.lo
@@ -39,4 +39,4 @@ out/build/
 
 .vs/
 .vscode/
-OpenGL/res/
+
